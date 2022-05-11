@@ -1,1 +1,4 @@
-# test
+{
+    "invite": [null],
+    "ijkkk": ["null@null"]
+}
